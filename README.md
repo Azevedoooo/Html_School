@@ -15,7 +15,9 @@ _Mercedes G500_
 
 Mercedes GLC Amg
 
-```
+Website da Mercedes - [Aceder](https://www.mercedes-benz.pt/)
+
+```Python
 print ("Eu Sou Fã da Mercedes")
 print ("Eu tenho um mercedes a200d")
 ```
